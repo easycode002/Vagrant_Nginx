@@ -1,3 +1,6 @@
+Here you go — **full README.md content**, ready to paste directly into your project.
+
+---
 
 ````md
 # Vagrant Ubuntu 22.04 LEMP Setup (Nginx + PHP 8.2 + MySQL)
